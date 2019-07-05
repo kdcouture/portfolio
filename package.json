@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kdcouture/protfolio/issues"
   },
-  "homepage": "https://github.com/kdcouture/protfolio#readme"
+  "homepage": "https://github.com/kdcouture/protfolio#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
 }
